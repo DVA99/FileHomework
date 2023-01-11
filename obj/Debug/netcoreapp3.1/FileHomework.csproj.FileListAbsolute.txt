@@ -1,0 +1,14 @@
+C:\Users\dymlevskiyva\source\repos\FileHomework\bin\Debug\netcoreapp3.1\FileHomework.exe
+C:\Users\dymlevskiyva\source\repos\FileHomework\bin\Debug\netcoreapp3.1\FileHomework.deps.json
+C:\Users\dymlevskiyva\source\repos\FileHomework\bin\Debug\netcoreapp3.1\FileHomework.runtimeconfig.json
+C:\Users\dymlevskiyva\source\repos\FileHomework\bin\Debug\netcoreapp3.1\FileHomework.runtimeconfig.dev.json
+C:\Users\dymlevskiyva\source\repos\FileHomework\bin\Debug\netcoreapp3.1\FileHomework.dll
+C:\Users\dymlevskiyva\source\repos\FileHomework\bin\Debug\netcoreapp3.1\FileHomework.pdb
+C:\Users\dymlevskiyva\source\repos\FileHomework\obj\Debug\netcoreapp3.1\FileHomework.csproj.AssemblyReference.cache
+C:\Users\dymlevskiyva\source\repos\FileHomework\obj\Debug\netcoreapp3.1\FileHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dymlevskiyva\source\repos\FileHomework\obj\Debug\netcoreapp3.1\FileHomework.AssemblyInfoInputs.cache
+C:\Users\dymlevskiyva\source\repos\FileHomework\obj\Debug\netcoreapp3.1\FileHomework.AssemblyInfo.cs
+C:\Users\dymlevskiyva\source\repos\FileHomework\obj\Debug\netcoreapp3.1\FileHomework.csproj.CoreCompileInputs.cache
+C:\Users\dymlevskiyva\source\repos\FileHomework\obj\Debug\netcoreapp3.1\FileHomework.dll
+C:\Users\dymlevskiyva\source\repos\FileHomework\obj\Debug\netcoreapp3.1\FileHomework.pdb
+C:\Users\dymlevskiyva\source\repos\FileHomework\obj\Debug\netcoreapp3.1\FileHomework.genruntimeconfig.cache
